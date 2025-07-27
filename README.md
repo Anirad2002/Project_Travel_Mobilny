@@ -41,11 +41,11 @@ Użytkownik może:
 
 ## 👨‍💻 **Zespół deweloperski**
 
-| Imię i nazwisko       | Numer indeksu |
-|-----------------------|---------------|
-| Daryna Pasiura        | 44066         |
-| Nikita Sukhovoi       | 44090         |
-| Denys Halytskyi       | 46459         |
+| Imię i nazwisko       |
+|-----------------------|
+| Daryna Pasiura        |
+| Nikita Sukhovoi       |
+| Denys Halytskyi       |
 
 ---
 
