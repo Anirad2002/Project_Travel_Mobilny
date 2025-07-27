@@ -1,4 +1,4 @@
-# 🌍 Project_Travel_Mobilny – **Planer podróży**
+# 🌍 Project Travel Mobilny – **Planer podróży**
 
 Aplikacja mobilna do planowania i organizowania podróży, stworzona w ramach projektu uczelnianego.  
 Umożliwia tworzenie własnych podróży, dodawanie miejsc, zadań, notatek, zarządzanie budżetem oraz wizualizację trasy na mapie.
